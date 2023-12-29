@@ -64,7 +64,7 @@ noise_mean = 0
 noise_std = 0.009
 
 # using 200bus data event 1
-filename = 'C:/Users/mazhi/PINN_Folder/4_bus_60Hz_10s_trimmed.csv'
+filename = '4_bus_60Hz_10s_trimmed.csv'
 df = pd.read_csv(filename, header=None)
 
 # Parameters
